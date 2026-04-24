@@ -5,7 +5,7 @@ export const siteConfig = {
   description:
     "记录工程实践、产品思考和个人项目的中文个人网站。",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://personal-site.vercel.app",
-  avatar: "/avatar.svg",
+  avatar: "/avatar.png",
   location: "Chengdu, China",
   email: "hello@example.com",
   social: [
