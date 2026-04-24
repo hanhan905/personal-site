@@ -1,12 +1,12 @@
 export const siteConfig = {
-  name: "你的名字",
+  name: "Han",
   role: "全栈工程师 / 独立创造者",
-  title: "你的名字 - 个人技术品牌站",
+  title: "Han - 个人技术品牌站",
   description:
     "记录工程实践、产品思考和个人项目的中文个人网站。",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://personal-site.vercel.app",
   avatar: "/avatar.svg",
-  location: "Shanghai, China",
+  location: "Chengdu, China",
   email: "hello@example.com",
   social: [
     { label: "GitHub", href: "https://github.com/yourname" },
